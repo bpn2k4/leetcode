@@ -4,3 +4,4 @@
 !_template/_make_question.ipynb
 
 .vscode/
+.venv/
